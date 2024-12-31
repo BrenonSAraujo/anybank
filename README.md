@@ -1,5 +1,4 @@
-![Descricao da sua imagem](thumb.png)
-
+![Descricao da sua imagem](screenshot.png)
 # Anybank App
 
 Aplicação de simulação bancária para gerenciamento de transações financeiras, focada no aprendizado de conceitos de autenticação e uso do Supabase como backend. A interface permite ao usuário consultar o extrato com histórico de transações, e realizar novas transações de forma prática e intuitiva.
@@ -34,11 +33,9 @@ Este projeto aplica princípios de Arquitetura Limpa para promover uma estrutura
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/tree/projeto-inicial) ou [baixá-lo](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/archive/refs/heads/projeto-inicial.zip).
+Você pode clonar o projeto com o comando:``git clone https://github.com/BrenonSAraujo/anybank.git``.
 
 ## 🛠️ Abrir e rodar o projeto
-
-![Descricao da sua imagem](screenshot.png)
 
 Para rodar o projeto localmente, siga os passos:
 
